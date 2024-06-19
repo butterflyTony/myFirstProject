@@ -3,4 +3,5 @@ function add(a,b){
 }
 function mul(a,b){
     return a*b
+    This is smith's making.
 }
